@@ -1,2 +1,2 @@
 # gitskills1
-quick
+quick&simple
